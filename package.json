@@ -1,0 +1,17 @@
+{
+  "name": "react-pdf-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/node": "^7.14.9",
+    "@babel/preset-react": "^7.14.5",
+    "@react-pdf/renderer": "^2.0.19",
+    "express": "^4.17.1",
+    "react": "^17.0.2"
+  },
+  "scripts": {
+    "start": "babel-node app.js"
+  }
+}
